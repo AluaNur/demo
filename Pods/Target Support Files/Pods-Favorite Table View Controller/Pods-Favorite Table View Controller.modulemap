@@ -1,0 +1,6 @@
+framework module Pods_Favorite_Table_View_Controller {
+  umbrella header "Pods-Favorite Table View Controller-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module Pods_Favorite_Table_View_Controller_Favorite_Table_View_ControllerUITests {
+  umbrella header "Pods-Favorite Table View Controller-Favorite Table View ControllerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
